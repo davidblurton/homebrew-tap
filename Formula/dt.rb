@@ -2,7 +2,7 @@ class Dt < Formula
   desc "Manage dtach sessions by name"
   homepage "https://github.com/davidblurton/dt"
   url "https://github.com/davidblurton/dt/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "REPLACE_WITH_TARBALL_SHA256"
+  sha256 "3f5d0f7d438225a1dd45cbec8437651d6ac32b86a4b76fd855144c998400b185"
   license "MIT"
   head "https://github.com/davidblurton/dt.git", branch: "main"
 
